@@ -1,1 +1,1 @@
-FILE_PATH = "train_data/cleaned_data.txt"
+DATASET_PATH = "train_data/cleaned_data.txt"

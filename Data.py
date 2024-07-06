@@ -37,7 +37,7 @@ def text_iterator(file_path, batch_size=1000):
 
 # Train a new tokenizer on the Algerian Darija text data using the text_iterator function
 darija_tokenizer = tokenizer.train_new_from_iterator(
-    text_iterator(file_path=settings.FILE_PATH, batch_size=1000), vocab_size=25000
+    text_iterator(file_path=settings.DATASET_PATH, batch_size=1000), vocab_size=25000
 )
 
 # Save the newly trained Darija tokenizer to a directory
