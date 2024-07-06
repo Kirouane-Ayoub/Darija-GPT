@@ -29,7 +29,12 @@ This dataset forms the foundation for our project, Darija-GPT, which aims to tra
 ##### Prerequisites
 
 1. **Training Data**: Ensure your raw text data is placed in the `train_data` folder. The data should be pre-processed and cleaned for optimal training results.
-2. **Dependencies**: Install necessary Python packages, primarily from the `transformers` and `torch` libraries.
+2. **Dependencies**: Install necessary Python packages, primarily from the `transformers` and `torch` libraries or use the provided `requirements.txt` file using this command : 
+
+
+    ```
+    pip install -r requirements.txt
+    ```
 
 ##### Training Script
 
