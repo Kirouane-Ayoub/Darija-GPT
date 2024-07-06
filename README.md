@@ -2,8 +2,11 @@
 
 ## Overview
 
-This project involves training and using a **GPT-2** model fine-tuned on Algerian Darija, a spoken dialect with limited written resources. The model, named **Darija-GPT**, aims to generate coherent text in **🇩🇿Algerian Darija**.
+Welcome to the **Darija-GPT** project, where we aim to train a GPT-2 model specifically for generating text in Algerian Darija. Algerian Darija is a spoken dialect with limited written resources, making it a unique and challenging language to model. 
 
+GPT-2 is renowned for its text generation capabilities and has been widely used across various applications. By training GPT-2 on Algerian Darija, we hope to create a model that can understand and generate text in this dialect, despite the limited availability of written data.
+
+Th project Details can be found in the [This blog post](https://medium.com/@ayoubkirouane3/darija-gpt-lets-make-machines-understand-our-language-860a4ed270da)
 
 ## Dataset: Algerian-Darija
 ### Introducing the Algerian-Darija Dataset
