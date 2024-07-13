@@ -6,7 +6,7 @@ Welcome to the **Darija-GPT** project, where we aim to train a **[GPT-2 model](h
 
 GPT-2 is renowned for its text generation capabilities and has been widely used across various applications. By training GPT-2 on Algerian Darija, we hope to create a model that can understand and generate text in this dialect, despite the limited availability of written data.
 
-Th project Details can be found in the [This blog post](https://medium.com/@ayoubkirouane3/darija-gpt-lets-make-machines-understand-our-language-860a4ed270da)
+The project Details can be found in the [This blog post](https://medium.com/@ayoubkirouane3/darija-gpt-lets-make-machines-understand-our-language-860a4ed270da)
 
 ## Dataset: Algerian-Darija
 ### Introducing the Algerian-Darija Dataset
