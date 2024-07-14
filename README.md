@@ -1,4 +1,4 @@
-# Training and Inference for Darija-GPT
+# Build and Train GPT2 Model from Scratch : 
 
 ## Overview
 
